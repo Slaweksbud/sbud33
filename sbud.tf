@@ -16,3 +16,4 @@ resource "google_secret_manager_secret" "sbud6" {
 
 # komentarz sbud
 # drugi komentarz sbud
+# release 2
