@@ -5,3 +5,11 @@ resource "google_secret_manager_secret" "sbud-secret-k4" {
     auto {}
   }
 }
+
+variable "zm3" {
+  type = string
+}
+
+variable "project" {
+  type = string
+}
